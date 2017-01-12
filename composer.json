@@ -1,0 +1,21 @@
+{
+    "name": "budko1989/yii2-devino-viber",
+    "description": "Send messages (text, images, buttons) on viber client",
+    "type": "yii2-extension",
+    "keywords": ["yii2","devinotelecom","viber"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Budko Vyacheslav",
+            "email": "budko.v1989@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "budko1989\\devinoviber\\": ""
+        }
+    }
+}
