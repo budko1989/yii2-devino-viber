@@ -17,5 +17,11 @@
         "psr-4": {
             "budko1989\\devinoviber\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/budko1989/yii2-devino-viber"
+        }
+    ]
 }
